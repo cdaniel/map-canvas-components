@@ -1,0 +1,1 @@
+{"version":3,"file":"MapEditorDispatcher.js","sourceRoot":"","sources":["../../src/dispatcher/MapEditorDispatcher.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,MAAM,CAAC;AAElC;IACI,oBAAmB,OAAU;QAAV,YAAO,GAAP,OAAO,CAAG;IAAG,CAAC;IACrC,iBAAC;AAAD,CAAC,AAFD,IAEC;;AAID,IAAM,kBAAkB,GAAsB,IAAI,UAAU,EAAE,CAAC;AAE/D,MAAM,CAAC,IAAM,mBAAmB,GAAG,kBAAkB,CAAC"}

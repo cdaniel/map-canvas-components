@@ -1,0 +1,35 @@
+{
+  "name": "map-canvas-components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "module" : "lib/index.js",
+  "typings" : "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Krzysztof Daniel",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "@types/flux": "^3.1.7",
+    "@types/prop-types": "^15.5.5",
+    "@types/react": "16.4.11",
+    "@types/react-dom": "16.0.7",
+    "@types/react-resize-detector": "^3.1.0",
+    "@types/underscore": "^1.8.9",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "flux": "^3.1.3",
+    "jsplumb": "^2.7.15",
+    "npm": "^6.4.0",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-resize-detector": "^3.1.0",
+    "underscore": "^1.9.1"
+  }
+}
